@@ -1,0 +1,19 @@
+{
+  "name": "flux",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "colony": "0.0.7",
+    "gulp": "^3.7.0",
+    "gulp-browserify": "^0.5.0",
+    "gulp-concat": "^2.2.0",
+    "react": "^0.12.0",
+    "reactify": "^0.13.1",
+    "serve": "^1.4.0"
+  },
+  "dependencies": {
+    "es6-promise": "^1.0.0"
+  }
+}
